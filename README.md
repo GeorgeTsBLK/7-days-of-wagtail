@@ -1,4 +1,5 @@
 # 7 Days of Wagtail [Free Course]
+## This is updated by George
 
 > This is a beginner friendly Wagtail CMS course.
 
